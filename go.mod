@@ -1,3 +1,3 @@
-module github.com/rayyildiz/luhn
+module github.com/kaanaktas/luhn-algorithm
 
-go 1.12
+go 1.13
