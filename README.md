@@ -4,11 +4,11 @@
 
 - Download and install [Golang](https://golang.org/dl/)
 - Download [Visual Studio Code](https://code.visualstudio.com/download) and install [go plugin](https://code.visualstudio.com/docs/languages/go)
-- Clone project ```git clone https://github.com/rayyildiz/luhn.git``` and run:
+- Clone project ```git clone https://github.com/kaanaktas/luhn-algorithm.git``` and run:
 
 ```bash
-git clone https://github.com/rayyildiz/luhn.git
-cd luhn
+git clone https://github.com/kaanaktas/luhn-algorithm.git
+cd luhn-algorithm
 go run main.go
 ```
 
